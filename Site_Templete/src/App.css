@@ -1,0 +1,12 @@
+.App {
+  background-color: rgba(0, 0, 0, 0.871);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App h3 {
+  white-space: pre-line;
+  vertical-align: bottom;
+}
